@@ -1,2 +1,0 @@
-# Trabalho-WEB
-Sistema Clinica 
