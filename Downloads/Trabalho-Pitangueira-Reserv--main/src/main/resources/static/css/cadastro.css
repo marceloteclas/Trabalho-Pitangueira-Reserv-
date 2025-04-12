@@ -1,0 +1,45 @@
+@import url(/css/login.css);
+
+
+#titulousuario {
+    text-align: center;
+    margin-bottom: 1%;
+    margin-top: 20px; 
+    font-size: 24px;
+    font-weight: bold; 
+    color: #333; 
+}
+
+
+#tipocadastro button:hover {
+    background-color: #0c440e;
+    transform: scale(1.05); 
+    transition: transform 0.3s ease, background-color 0.3s ease; 
+}
+
+input[type="text"] {
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+}
+
+#msgerrousuario {
+    display: none; 
+    color: red; 
+}
+
+#usuariocadastro {
+    margin-top: 5%;
+}
+
+.btnlogin {
+    position: absolute;
+    top: 5;
+    right: 0;
+    margin-right: 7%;
+}
+
