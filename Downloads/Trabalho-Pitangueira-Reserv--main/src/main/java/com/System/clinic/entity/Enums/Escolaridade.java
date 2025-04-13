@@ -1,0 +1,13 @@
+package com.System.clinic.entity.Enums;
+
+// Enum para Escolaridade
+public enum Escolaridade {
+    ENSINO_FUNDAMENTAL_INCOMPLETO,
+    ENSINO_FUNDAMENTAL_COMPLETO,
+    ENSINO_MEDIO_INCOMPLETO,
+    ENSINO_MEDIO_COMPLETO,
+    GRADUACAO_INCOMPLETA,
+    GRADUACAO_COMPLETA,
+    PREFERE_NAO_DIZER,
+    OUTRO
+}
